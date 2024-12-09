@@ -9,7 +9,7 @@ Git 创建任务分支时，并不是将文件全部备份，而是创建新的�
 
 
 ```python
-git branch #查看所有本地分支
+git branch #查看所有本地分支cdc
 git branch -r #查看所有远程分支李彪
 gri branch -a #列出当前仓库所有本地和远程分支
 ```
