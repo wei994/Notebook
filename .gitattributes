@@ -1,0 +1,2 @@
+. filter=lfs diff=lfs merge=lfs -text
+large_array.dat filter=lfs diff=lfs merge=lfs -text
